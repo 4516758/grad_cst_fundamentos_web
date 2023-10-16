@@ -7,7 +7,7 @@ body {
     background-color: #333;
     color: #fff;
     justify-content: space-around;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 
 .menu a {
@@ -22,7 +22,8 @@ body {
 }
 
 .secao {
-    padding: 20px;
+    padding: 80px 0;
+    margin: 40px;
 }
 
 .secao h1 {
